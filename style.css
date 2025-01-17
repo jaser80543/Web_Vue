@@ -27,3 +27,8 @@ h1 {
     margin: 5px;
     cursor: pointer;
 }
+
+input,
+button {
+    color:#252525;
+}
